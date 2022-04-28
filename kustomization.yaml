@@ -1,0 +1,4 @@
+bases:
+- components/devfile-sample-java-springboot-basic/base
+resources:
+- common-storage-pvc.yaml
