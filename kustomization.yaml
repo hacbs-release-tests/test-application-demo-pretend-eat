@@ -1,4 +1,5 @@
 bases:
+- components/devfile-sample-code-with-quarkus/base
 - components/devfile-sample-java-springboot-basic/base
 resources:
 - common-storage-pvc.yaml
